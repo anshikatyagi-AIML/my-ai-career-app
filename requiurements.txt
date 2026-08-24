@@ -1,8 +1,0 @@
-streamlit
-langchain
-langchain-google-genai
-langchain-community
-faiss-cpu
-pydantic
-pdfplumber
-python-dotenv

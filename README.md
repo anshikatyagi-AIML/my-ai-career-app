@@ -14,7 +14,7 @@ An interactive AI-powered application designed to help job seekers optimize thei
 
 - **Frontend:** Streamlit
 - **LLM Orchestration:** LangChain (`langchain-google-genai`, `langchain-core`)
-- **AI Model:** Google Gemini (`gemini-2.5-flash`)
+- **AI Model:** Google Gemini (`gemini-3.6-flash`)
 - **PDF Extraction:** PyPDF
 - **Environment Management:** Python `dotenv`
 
